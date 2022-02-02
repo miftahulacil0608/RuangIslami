@@ -10,6 +10,7 @@ source code untuk kebutuhan tugas besar mata kuliah kewirausahaan berbasis tekno
 
 #Installation
 - instalasi terlebih dahulu android studio, flutter, dan nox emulator
+- kami menggunakan ide VSCode, sebelum menjalankan programnya, tambahkan terlebih daulu ekstensi flutter dan dart di dalam VSCode
 
 
 #Configuration
@@ -17,11 +18,12 @@ source code untuk kebutuhan tugas besar mata kuliah kewirausahaan berbasis tekno
 
 
 #copyright 
+
 - Kewirausahaan berbasis Teknologi
+
 - Kelompok UA
 - Ahmad Miftahul Azisz 202010370311379
 - Ungga Putra Mahendra 202010370311391
-
 
 - Syaifuddin,.S.kom,.M.kom
 - Universitas Muhammadiyah malang
